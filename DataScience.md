@@ -12,3 +12,14 @@ http://www.nltk.org/
 https://www.superdatascience.com/
 - Lectures on NLP:
 https://www.youtube.com/playlist?list=PL96JpGPc-cbBkZ5Kq_7Tq0jbZegKIBEjI
+
+### Data analysis
+#### Python frameworks:
+- Pandas, it's like R but in Python : http://pandas.pydata.org/
+
+### Data science
+- Kaggle- data science framework: https://www.kaggle.com/
+
+### Machine learning
+- Machine learning mastery - courses: http://machinelearningmastery.com/
+- Machine learning mastery - blog: http://machinelearningmastery.com/blog/
