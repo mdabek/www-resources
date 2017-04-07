@@ -6,6 +6,7 @@
 https://radimrehurek.com/gensim/index.html
 - NLTK is another toolkit for NLP, also for Python:
 http://www.nltk.org/
+- NLTK book: http://www.nltk.org/book/
 
 ### Podcasts / courses
 - Academy targeted torwards DS - podcasts
