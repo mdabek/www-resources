@@ -24,3 +24,6 @@ https://www.youtube.com/playlist?list=PL96JpGPc-cbBkZ5Kq_7Tq0jbZegKIBEjI
 ### Machine learning
 - Machine learning mastery - courses: http://machinelearningmastery.com/
 - Machine learning mastery - blog: http://machinelearningmastery.com/blog/
+
+### Algorithms
+- Jelani Nelson publications: http://people.seas.harvard.edu/~minilek/publications/
